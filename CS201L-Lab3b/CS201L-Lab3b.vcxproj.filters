@@ -18,7 +18,7 @@
     <ClCompile Include="CS201L-Lab3b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Maatrix.cpp">
+    <ClCompile Include="Matrix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

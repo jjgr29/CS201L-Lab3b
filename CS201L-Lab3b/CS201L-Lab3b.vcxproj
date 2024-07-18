@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CS201L-Lab3b.cpp" />
-    <ClCompile Include="Maatrix.cpp" />
+    <ClCompile Include="Matrix.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="data.txt" />
