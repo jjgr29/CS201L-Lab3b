@@ -2,7 +2,7 @@
 // LAB SECTION:
 // LECTURE SECTION:
 // 
-// CS201L-Lab3b.cpp : This project will complete the Lab3 (2-D Vectors) 
+// CS201L-Lab3.cpp : This project will complete the Lab3 (2-D Vectors) 
 //
 
 #include "Matrix.h"
